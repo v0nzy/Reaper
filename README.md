@@ -10,6 +10,7 @@ Using signed vulnerable driver to kill anti-malware processes
 ## Credits  
 Special thanks to Alice Climent-Pommeret for inspiration  
   - [Blog post](https://alice.climent-pommeret.red/posts/process-killer-driver/)  
-  - [Killers project](https://github.com/xalicex/Killers/tree/main)  
+  - [Killers project](https://github.com/xalicex/Killers/tree/main)
+
 Northwave Cybersecurity for doing the heavy lifting on finding a vulnerable driver  
   - [Northwave Cybersecurity](https://northwave-cybersecurity.com/)  
